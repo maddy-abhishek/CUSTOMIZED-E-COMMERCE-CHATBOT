@@ -8,11 +8,11 @@ The Ecommerce Chatbot is built using Python and Flask framework. It leverages na
 
 # Features
 
-  - Interactive chat interface for users to interact with the chatbot.
-  - Natural language processing for understanding user queries.
-  - Product recommendation engine based on user preferences and browsing history.
-  - Integration with the ecommerce store's product database.
-  - Ability to handle various user inquiries such as product availability, pricing, shipping information, etc.
+  * Interactive chat interface for users to interact with the chatbot.
+  * Natural language processing for understanding user queries.
+  * Product recommendation engine based on user preferences and browsing history.
+  * Integration with the ecommerce store's product database.
+  * Ability to handle various user inquiries such as product availability, pricing, shipping information, etc.
 
 # Installation
 
